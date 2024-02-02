@@ -18,6 +18,7 @@ img {
 }
 
 .container {
+  margin: 0 auto;
   max-width: 600px;
   background: #111;
   position: relative;
@@ -64,7 +65,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 50px;
+  padding: 50px 0;
   background: #111;
   display: none;
 }
